@@ -1,8 +1,8 @@
-# !/usr/bin/env python
+# !/usr/bin/env python3
 # Produces load on all available CPU cores
 # Updated with suggestion to prevent Zombie processes
 # Linted for Python 3
-# Source: 
+# Source:
 # insaner @ https://danielflannery.ie/simulate-cpu-load-with-python/#comment-34130
 
 from multiprocessing import Pool
